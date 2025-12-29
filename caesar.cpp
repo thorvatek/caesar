@@ -5,7 +5,7 @@ using namespace std;
 
 void main()
 {
-    int shift_value = 5;
+    int shift_value = 3;
     char text[8000] = {0};
 
     cout << "Enter the shift value: ";
